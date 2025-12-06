@@ -2,6 +2,12 @@
 
 A beautiful, immersive night sky animation featuring shooting stars, a glowing moon, and twinkling stars created purely with HTML and CSS. This project showcases Disney-style smooth animations with dreamy clouds drifting across a moonlit sky.
 
+## 🔗 Live Demo
+
+**[View Live Demo](https://kiran-kata.github.io/shooting-stars/)**
+
+Experience the magical night sky animation in action!
+
 ## ✨ Features
 
 - **Shooting Stars Animation**: Multiple shooting stars with radiant glows moving diagonally across the sky
